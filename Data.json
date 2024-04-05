@@ -1,0 +1,20 @@
+{
+    "Room": [
+      {"roomId": "1", "roomName": "A-101", "capacity": 10},
+      {"roomId": "2", "roomName": "A-102", "capacity": 15},
+      {"roomId": "3", "roomName": "A-103", "capacity": 20},
+      {"roomId": "4", "roomName": "A-104", "capacity": 12},
+      {"roomId": "5", "roomName": "A-105", "capacity": 18},
+      {"roomId": "6", "roomName": "A-106", "capacity": 25},
+      {"roomId": "7", "roomName": "A-107", "capacity": 30},
+      {"roomId": "8", "roomName": "A-108", "capacity": 16},
+      {"roomId": "9", "roomName": "A-109", "capacity": 22},
+      {"roomId": "10", "roomName": "A-110", "capacity": 14},
+      {"roomId": "11", "roomName": "B-101", "capacity": 10},
+      {"roomId": "12", "roomName": "B-102", "capacity": 15},
+      {"roomId": "13", "roomName": "B-103", "capacity": 20},
+      {"roomId": "14", "roomName": "B-104", "capacity": 12},
+      {"roomId": "15", "roomName": "B-105", "capacity": 18}
+    ]
+  }
+  
