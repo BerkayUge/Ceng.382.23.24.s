@@ -1,0 +1,10 @@
+
+.hover-animation:hover {
+    background-color: #45a049;
+    transition: background-color 0.3s ease;
+}
+
+tr.hover-animation:hover {
+    background-color: #f5f5f5;
+    transition: background-color 0.3s ease;
+}
