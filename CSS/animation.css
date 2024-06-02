@@ -1,0 +1,12 @@
+@keyframes button-hover {
+    from {
+        background-color: #28a745;
+    }
+    to {
+        background-color: #218838;
+    }
+}
+
+button.btn:hover {
+    animation: button-hover 0.3s forwards;
+}
