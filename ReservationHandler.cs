@@ -1,45 +1,38 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
-namespace Ceng._382._23._24.s._202011055
+public class ReservationHandler
 {
     public class ReservationHandler
-    {
-         public Reservation[,] Reservations { get; set; }
+{
+    private readonly IReservationRepository _reservationRepository;
+    private readonly LogHandler _logHandler;
 
-    public ReservationHandler()
+    public ReservationHandler(IReservationRepository reservationRepository, LogHandler logHandler)
     {
-        Reservations = new Reservation[7, 24];
+        _reservationRepository = reservationRepository;
+        _logHandler = logHandler;
     }
 
     public void AddReservation(Reservation reservation)
     {
-        int day = (int)reservation.Date.DayOfWeek;
-        int hour = reservation.Time.Hour;
-        Reservations[day, hour] = reservation;
+        _reservationRepository.AddReservation(reservation);
+        _logHandler.AddLog(new LogRecord(DateTime.Now, reservation.ReserverName, reservation.Room.RoomName));
     }
 
     public void DeleteReservation(Reservation reservation)
     {
-        int day = (int)reservation.Date.DayOfWeek;
-        int hour = reservation.Time.Hour;
-        Reservations[day, hour] = null;
+        _reservationRepository.DeleteReservation(reservation);
+        _logHandler.AddLog(new LogRecord(DateTime.Now, reservation.ReserverName, reservation.Room.RoomName));
     }
 
     public void DisplayWeeklySchedule()
     {
-        for (int i = 0; i < 7; i++)
+        var reservations = _reservationRepository.GetAllReservations();
+        foreach (var reservation in reservations)
         {
-            for (int j = 0; j < 24; j++)
-            {
-                if (Reservations[i, j] != null)
-                {
-                    Console.WriteLine($"Day: {i}, Hour: {j}, Reservation: {Reservations[i, j].ReserverName}");
-                }
-            }
+            Console.WriteLine($"Date: {reservation.Date.ToShortDateString()}, Time: {reservation.Time.ToShortTimeString()}, Reserver: {reservation.ReserverName}, Room: {reservation.Room.RoomName}");
         }
     }
-    }
+}
 }
