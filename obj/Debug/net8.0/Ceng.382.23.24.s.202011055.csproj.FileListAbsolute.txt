@@ -1,0 +1,15 @@
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.AssemblyInfo.cs
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.sourcelink.json
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\bin\Debug\net8.0\Ceng.382.23.24.s.202011055.exe
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\bin\Debug\net8.0\Ceng.382.23.24.s.202011055.deps.json
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\bin\Debug\net8.0\Ceng.382.23.24.s.202011055.runtimeconfig.json
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\bin\Debug\net8.0\Ceng.382.23.24.s.202011055.dll
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\bin\Debug\net8.0\Ceng.382.23.24.s.202011055.pdb
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.dll
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\refint\Ceng.382.23.24.s.202011055.dll
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.pdb
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\Ceng.382.23.24.s.202011055.genruntimeconfig.cache
+C:\Users\berka\Desktop\CENG 382\Ceng.382.23.24.s.202011055\obj\Debug\net8.0\ref\Ceng.382.23.24.s.202011055.dll
