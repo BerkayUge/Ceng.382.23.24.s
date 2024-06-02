@@ -1,0 +1,30 @@
+﻿@page
+@model AdditionModel
+@{
+    ViewData["Title"] = "Addition";
+}
+
+<div class="form-container">
+    <h2>Addition Form</h2>
+
+    <form method="post">
+        <div>
+            <label for="FirstNumber">Enter first number:</label>
+            <input type="number" id="FirstNumber" name="FirstNumber" value="@Model.FirstNumber" />
+        </div>
+        <div>
+            <label for="SecondNumber">Enter second number:</label>
+            <input type="number" id="SecondNumber" name="SecondNumber" value="@Model.SecondNumber" />
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Calculate Sum</button>
+        </div>
+    </form>
+
+    @if (Model.Result.HasValue)
+    {
+        <div class="alert alert-success mt-3">
+            <p>The sum of @Model.FirstNumber and @Model.SecondNumber is @Model.Result</p>
+        </div>
+    }
+</div>

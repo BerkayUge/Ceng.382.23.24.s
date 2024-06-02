@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WfTFbN4QnrwHS3qbxoPiom9GvMi/vgJ6RzsSvXxMhbo=",
+  "Hash": "3cH+ItI1mW/hHuUk+vtg1JiCzkejH6kFxcH3ILjgORg=",
   "Source": "ProjectName",
   "BasePath": "_content/ProjectName",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjectName.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\wwwroot\\css\\addition.css",
+      "SourceId": "ProjectName",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\wwwroot\\",
+      "BasePath": "_content/ProjectName",
+      "RelativePath": "css/addition.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\addition.css"
     },
     {
       "Identity": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\wwwroot\\css\\new.css",

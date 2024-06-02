@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ProjectName.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\wwwroot\\css\\addition.css",
+      "PackagePath": "staticwebassets\\css\\addition.css"
+    },
+    {
       "Id": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\wwwroot\\css\\new.css",
       "PackagePath": "staticwebassets\\css\\new.css"
     },
