@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj": {
+    "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj",
         "projectName": "ProjectName",
-        "projectPath": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj",
-        "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berka\\Desktop\\CENG 382\\Ceng.382.23.24.s.202011055\\ProjectName\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng.382.23.24.s.202011055\\ProjectName\\ProjectName.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng.382.23.24.s.202011055\\ProjectName\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\berka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
